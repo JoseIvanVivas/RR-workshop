@@ -1,6 +1,6 @@
 # Template on Workshop for Reproducible research at ENSGSI
 
-**Name of the student:** Vivas <br>
+**Name of the student:** IV <br>
 **Date:** 01/02/2021   <br>
 **Course:** research-methods <br>
 
